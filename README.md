@@ -10,3 +10,4 @@
 
 ### converting notebook to slides
 - `jupyter nbconvert Jupyter\ Slides.ipynb --to slides`
+- open `Slides.slides.html` in browser
